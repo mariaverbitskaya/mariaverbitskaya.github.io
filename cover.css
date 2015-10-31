@@ -1,0 +1,36 @@
+body {
+  background-color: #333;
+
+  background: url("cover.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.bio-text {
+  -webkit-font-smoothing: antialiased;
+  font-family: Helvetica;
+  opacity: 0.95;
+  color: #fff;
+}
+
+.title {
+  font-size: 60px;
+  left: 20px;
+  padding-left: 20px;
+}
+
+.left-column .section-name {
+  font-size: 32px;
+}
+
+.left-column {
+  margin: 0px 5px;
+  width: 400px;
+  font-size: 22px;
+  line-height: 22px;
+  font-weight: 600;
+  left: 20px;
+  padding-left: 20px;
+}
