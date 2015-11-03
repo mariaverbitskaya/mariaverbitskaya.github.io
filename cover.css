@@ -15,6 +15,10 @@ body {
   color: #fff;
 }
 
+.bio-text a {
+  color: #fff;
+}
+
 .title {
   font-size: 60px;
   left: 20px;
@@ -27,9 +31,9 @@ body {
 
 .left-column {
   margin: 0px 5px;
-  width: 400px;
-  font-size: 22px;
-  line-height: 22px;
+  width: 450px;
+  font-size: 23px;
+  line-height: 24px;
   font-weight: 600;
   left: 20px;
   padding-left: 20px;
